@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(59, 164, 123);
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100wh;
+  text-align: center;
+}
+
+header {
+}
+
+form {
+  display: flex;
+}
+
+.jumbotron {
+  /* margin-top: 2rem; */
+}
+
+.user-list-selector {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
